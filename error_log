@@ -1,0 +1,14 @@
+[06-May-2021 03:28:06 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/lscadmin/public_html/citizenship/game.php on line 4
+[06-May-2021 03:28:12 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/lscadmin/public_html/citizenship/game.php on line 4
+[06-May-2021 03:28:24 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/lscadmin/public_html/citizenship/game.php on line 4
+[06-May-2021 04:14:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/lscadmin/public_html/citizenship/game.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/lscadmin/public_html/citizenship/game.php on line 5
+[06-May-2021 04:39:27 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/lscadmin/public_html/citizenship/game.php on line 1240
+[06-May-2021 04:40:07 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/lscadmin/public_html/citizenship/game.php on line 1240
+[06-May-2021 04:41:05 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/lscadmin/public_html/citizenship/game.php on line 1240
+[06-May-2021 04:41:39 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/lscadmin/public_html/citizenship/game.php on line 1240
+[06-May-2021 04:43:13 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/lscadmin/public_html/citizenship/game.php on line 1240
+[06-May-2021 04:45:50 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/lscadmin/public_html/citizenship/game.php on line 1232
+[06-May-2021 04:58:15 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/lscadmin/public_html/citizenship/game.php on line 1233
